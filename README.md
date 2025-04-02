@@ -8,9 +8,9 @@ Lección de Git de la promo 52
 - No me estoy enterando demasiado
 
 ```bash
-git add -A
+git add -A 
 git commit -m
-git push
-git pull
+git push #secuencia para guardar y subir en el GitHub
+git pull #Actualizar
 ```
 
